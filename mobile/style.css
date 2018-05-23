@@ -28,6 +28,24 @@ body {
     text-align: center;
 }
 
+.blackLink:link {
+    text-decoration: none;
+    color: rgb(20, 20, 20);
+}
+.blackLink:visited {
+    text-decoration: none;
+    color: rgb(20, 20, 20);
+}
+.blackLink:hover {
+    text-decoration: none;
+    color: rgb(60, 60, 60);
+}
+.blackLink:active {
+    text-decoration: none;
+    color: rgb(20, 20, 20);
+}
+
+
 .socialIcons {
     position: relative;
     left: 0;
